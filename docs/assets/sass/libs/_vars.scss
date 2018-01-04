@@ -1,59 +1,49 @@
 // Misc.
 	$misc: (
+		z-index-base:		10000,
+		max-features:		20,
+		max-sidebar-links:	20
 	);
 
 // Duration.
 	$duration: (
-		nav:				0.5s,
 		transition:			0.2s,
-		bg-fadein:			2s,
-		bg-transition:		3s,
-		bg-slide:			45s // (lower = faster, higher = slower)
+		activation:			1s
 	);
 
 // Size.
 	$size: (
-		border-radius:		6px,
-		border-width:		2px,
+		border-radius:		0.25em,
+		border-width:		1px,
 		element-height:		2.75em,
-		element-margin:		2em
+		element-margin:		2em,
+		sidebar-width:		18em,
+		sidebar-height:		3.5em,	// when <=large is active
+		inner-width:		75em
 	);
 
 // Font.
 	$font: (
-		family:				('Roboto', sans-serif),
+		family:				(Arial, Helvetica, sans-serif),
 		family-fixed:		('Courier New', monospace),
-		weight:				400,
-		weight-bold:		700,
-		letter-spacing:		-0.01em
+		weight:				normal,
+		weight-bold:		bold,
+		kerning-alt:		0.25em
 	);
 
 // Palette.
 	$palette: (
-		bg:					#000,
-		fg:					rgba(255,255,255,0.75),
-		fg-bold:			#fff,
-		fg-light:			rgba(255,255,255,0.5),
-		border:				rgba(255,255,255,0.35),
-		border-bg:			rgba(255,255,255,0.125),
-		border2:			rgba(255,255,255,0.25),
-
-		accent: (
-			bg:				#1cb495,
-			fg:				mix(#1cb495, #ffffff, 25%),
-			fg-bold:		#ffffff,
-			fg-light:		mix(#1cb495, #ffffff, 40%),
-			border:			rgba(255,255,255,0.25),
-			border-bg:		rgba(255,255,255,0.075),
-		),
-
-		positive: (
-			bg:				#1cb495,
-			fg:				#ffffff
-		),
-
-		negative: (
-			bg:				#ff2361,
-			fg:				#ffffff
-		)
+		bg:					#312450,
+		bg-alt:				darken(#312450, 5),
+		fg:					rgba(255,255,255,0.55),
+		fg-bold:			#ffffff,
+		fg-light:			rgba(255,255,255,0.35),
+		border:				rgba(255,255,255,0.15),
+		border-bg:			rgba(255,255,255,0.05),
+		accent1:			#5e42a6,
+		accent1-alt:		darken(#5e42a6, 10),
+		accent2:			#5052b5,
+		accent2-alt:		darken(#5052b5, 10),
+		accent3:			#b74e91,
+		accent3-alt:		darken(#b74e91, 10)
 	);
