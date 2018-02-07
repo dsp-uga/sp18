@@ -5,7 +5,7 @@ talks for Project 1. Some teams submitted PowerPoint files, others PDFs, still
 others Google presentations (which were converted to PDF, but the original
 links will be provided).
 
-The team name theme for Project 1: *galaxies*.
+The team name theme for Project 1: [*constellations*](https://en.wikipedia.org/wiki/88_modern_constellations).
 
 **Crux**
  - Omid Setayeshfar, Vinay Kumar Bingi, Zach Jones
@@ -32,12 +32,12 @@ The team name theme for Project 1: *galaxies*.
 **Hydrus**
  - Ankit Vaghela, Vibodh Fenani, Chris Barrick, Vamsi Nadella
  - [GitHub](https://github.com/dsp-uga/hydrus)
- -
+ - [pdf](hydrus/hydrus.pdf)
 
 **Volans**
  - Ankita Joshi, Prajay Shetty, Vyom Shrivastava
  - [GitHub](https://github.com/dsp-uga/volans-p1)
- -
+ - *SLIDES MISSING*
 
 **Andromeda**
  - I-Huei Ho, Weiwen Xu, Nihal Soans
@@ -47,4 +47,4 @@ The team name theme for Project 1: *galaxies*.
 **Pyxis**
  - Layton Hayes, Parya Jandaghi, Yuanming Shi
  - [GitHub](https://github.com/dsp-uga/Pyxis-p1)
- -
+ - [pptx](pyxis/pyxis.pptx)
