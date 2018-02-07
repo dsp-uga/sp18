@@ -37,7 +37,7 @@ The team name theme for Project 1: [*constellations*](https://en.wikipedia.org/w
 **Volans**
  - Ankita Joshi, Prajay Shetty, Vyom Shrivastava
  - [GitHub](https://github.com/dsp-uga/volans-p1)
- - *SLIDES MISSING*
+ - [pdf](volans/DSP_P1.pdf)
 
 **Andromeda**
  - I-Huei Ho, Weiwen Xu, Nihal Soans
