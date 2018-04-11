@@ -27,14 +27,13 @@ The team name theme for Project 4: [*United States' Women's Outdoor Track Record
 **Coburn**
  - Rajeswari Sivakumar, Zach Jones, Layton Hayes, Vibodh Fenani
  - [GitHub](https://github.com/dsp-uga/coburn)
- - [pptx]
- - [pdf]
+ - [pdf](coburn/coburn.pdf)
 
 **Hastings**
  - Ankit Vaghela, Vyom Shrivastava, Weiwen Xu
  - [GitHub](https://github.com/dsp-uga/Hastings-p4)
- - [pptx]
- - [pdf]
+ - [pptx](hastings/hastings.pptx)
+ - [pdf](hastings/hastings.pdf)
 
 **Kampf**
  - Maulik Shah, Yuanming Shi, Jin Wang
